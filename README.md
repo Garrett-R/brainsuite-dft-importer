@@ -1,7 +1,7 @@
 BrainSuite dft importer
 =======================
 
-This script takes a .dft file exported from BrainSuite and imports it into Blender with each tract being a separate object.
+This script takes a .dft file exported from BrainSuite and imports it into Blender with each tract being a separate object.  Here's a [demo](http://youtu.be/UPOXm789iUQ).
 
 NOTE: this is an unofficial script not written by the BrainSuite developers.  If you have any issues please let me know! 
 
